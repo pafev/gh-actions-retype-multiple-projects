@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish:
-    name: Deploy multiple retype projects
+    name: build multiple retype projects
 
     runs-on: ubuntu-latest
 

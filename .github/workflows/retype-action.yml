@@ -23,7 +23,7 @@ jobs:
           dotnet-version: 6.x
 
       - name: install retypeapp with dotnet tool
-        run: dotnet tool install retypeapp --tool-path /bin
+        run: dotnet tool install retypeapp
 
       - name: build diretorias
         run: retype build ./diretorias/retype.yml --output ./

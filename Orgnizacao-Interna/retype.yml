@@ -1,13 +1,11 @@
 input: .
 output: .retype
 # url: docs.structej.com/
-# url: https://pafev.github.io/gh-actions-retype-multiple-projects/
 edit:
   repo: "https://github.com/StructCE/DocStruct"
   label: Altere essa página no GitHub.
 branding:
   title: DocStruct
-  # logo: ./Imagens DocStruct/Logos/logo_struct.png
 links:
   - text: GitHub
     link: https://github.com/StructCE/DocStruct

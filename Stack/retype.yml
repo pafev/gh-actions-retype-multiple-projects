@@ -6,7 +6,6 @@ edit:
   label: Altere essa página no GitHub.
 branding:
   title: DocStruct
-  # logo: ./Imagens DocStruct/Logos/logo_struct.png
 links:
   - text: GitHub
     link: https://github.com/StructCE/DocStruct

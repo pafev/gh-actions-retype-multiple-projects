@@ -34,13 +34,13 @@ jobs:
         run: dotnet tool install retypeapp --global
 
       - name: build diretorias
-        run: retype build ./Diretorias/retype.yml --output ./diretorias
+        run: retype build ./Diretorias/retype.yml --output ./public/diretorias
 
       - name: build ferramentas de ambiente
-        run: retype build ./Ferramentas-de-Ambiente/retype.yml --output ./ferramentas-de-ambiente
+        run: retype build ./Ferramentas-de-Ambiente/retype.yml --output ./public/ferramentas-de-ambiente
 
       - name: build stack
-        run: retype build ./Stack/retype.yml --output ./stack
+        run: retype build ./Stack/retype.yml --output ./public/stack
 
       - name: setup pages
         uses: actions/configure-pages@v4
@@ -48,7 +48,7 @@ jobs:
       - name: upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."
+          path: "./public"
 
       - name: deploy to GitHub Pages
         id: deployment

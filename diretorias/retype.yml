@@ -1,7 +1,7 @@
 input: .
 output: .retype
 # url: docs.structej.com/
-url: https://pafev.github.io/gh-actions-retype-multiple-projects/
+# url: https://pafev.github.io/gh-actions-retype-multiple-projects/
 edit:
   repo: "https://github.com/StructCE/DocStruct"
   label: Altere essa página no GitHub.

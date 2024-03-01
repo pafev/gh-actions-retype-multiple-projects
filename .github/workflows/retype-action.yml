@@ -17,18 +17,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Build diretorias
-        uses: retypeapp/action-build@latest
+      - name: setup dotnet
+        uses: actions/setup-dotnet@v4
         with:
-          config: diretorias/retype.yml
-        id: build-diretorias
+          dotnet-version: 6.x
 
-      - name: Verify output from build diretorias
-        shell: bash
-        env:
-          ENV_TO_DIRETORIAS_RETYPE_PATH: ${{ steps.build-diretorias.outputs.retype-output-path }}
-        run: echo "Retype output is available at '${ENV_TO_DIRETORIAS_RETYPE_PATH}'."
+      - name: install retypeapp with dotnet tool
+        run: dotnet tool install retypeapp --tool-path /bin
 
-      # - uses: retypeapp/action-github-pages@latest
-      #   with:
-      #     update-branch: true
+      - name: build diretorias
+        run: retype build ./diretorias/retype.yml --output ./

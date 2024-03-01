@@ -23,7 +23,7 @@ jobs:
       cancel-in-progress: false
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: setup dotnet
         uses: actions/setup-dotnet@v4
@@ -42,15 +42,14 @@ jobs:
       - name: build stack
         run: retype build ./Stack/retype.yml --output ./stack
 
-      - name: Setup Pages
+      - name: setup pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
+      - name: upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
           path: "."
 
-      - name: Deploy to GitHub Pages
+      - name: deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

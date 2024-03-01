@@ -33,7 +33,7 @@ jobs:
       - name: install retypeapp with dotnet tool
         run: dotnet tool install retypeapp --global
 
-      - name: build de organizacao interna
+      - name: build organizacao interna
         run: retype build ./Organizacao-Interna/retype.yml --output ./public/organizacao-interna
 
       - name: build de ferramentas de ambiente

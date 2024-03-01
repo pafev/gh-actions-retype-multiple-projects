@@ -34,7 +34,7 @@ jobs:
         run: dotnet tool install retypeapp --global
 
       - name: build diretorias
-        run: retype build ./diretorias/retype.yml --output ./
+        run: retype build ./diretorias/retype.yml --output ./diretorias
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -36,6 +36,12 @@ jobs:
       - name: build diretorias
         run: retype build ./diretorias/retype.yml --output ./diretorias
 
+      - name: build ferramentas de ambiente
+        run: retype build ./ferramentas-de-ambiente/retype.yml --output ./ferramentas-de-ambiente
+
+      - name: build stack
+        run: retype build ./stack/retype.yml --output ./stack
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

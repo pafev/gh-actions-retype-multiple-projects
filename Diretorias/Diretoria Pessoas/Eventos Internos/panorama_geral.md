@@ -3,9 +3,10 @@ label: "Panorama Geral"
 icon: rocket
 author:
   name: Jéssica
-  avatar: ../../../Imagens DocStruct/Pessoas/dino.png
+  avatar: ../../Assets/Pessoas/dino.png
 date: 2023-11-02
 ---
+
 Uma das principais funções da diretoria de gestão de pessoas é garantir que todos os membros se sintam confortáveis trabalhando na empresa. Ao se sentir à vontade, um membro se torna mais participativo nas suas atividades, expressando mais suas opiniões e consequentemente tendo um melhor rendimento. É nesse momento que entram os eventos internos, os quais, na Struct, são organizados pela Gestão de Pessoas. A ideia é criar eventos virtuais ou presenciais onde os membros possam interagir, conhecer mais sobre os outros e se divertir ao máximo. O propósito dos eventos pode ser a celebração de uma conquista da Struct, o final de uma temporada de gamificação, o repasse de conhecimento técnico ou de cultura empresarial para a empresa, ou qualquer outro motivo que a empresa e a diretoria julguem como válido para a realização de um evento interno.
 
 ## Funcionamento
@@ -15,7 +16,8 @@ O evento é organizado em torno do objetivo que foi dado para ele. A maioria das
 ## Local
 
 Como possibilidades de locais para a realização dos eventos internos, há o parque da cidade, uma opção geralmente avaliada para eventos mais lúdicos, com foco na cultura empresarial, em finais de semana e em época com clima favorável.
-Além do parque, a escolha imediata seria a realização em uma das salas da Faculdade de Tecnologia da UnB, onde dispomos de cadeiras e projetores para os eventos, além de ser um local fechado e invariavelmente frequentado pelos membros da empresa. 
+Além do parque, a escolha imediata seria a realização em uma das salas da Faculdade de Tecnologia da UnB, onde dispomos de cadeiras e projetores para os eventos, além de ser um local fechado e invariavelmente frequentado pelos membros da empresa.
+
 > As salas podem ser reservadas por meio deste link: [Reserva de Sala do ENE](http://www.ene.unb.br/index.php/component/breezingforms/ff_form/4/ff_page/1?ff_form=4&ff_page=1)
 
 ## Lanches
@@ -30,4 +32,5 @@ Os cronogramas são montados nas reuniões internas de organização do evento, 
 ## Dinâmicas
 
 Outra atividade comum nos eventos internos da Struct são as dinâmicas. As dinâmicas geralmente são utilizadas como um momento de descontração e engajamento entre os membros, podendo ser feitas em pausas, ao final do evento, ou no começo do evento, quando geralmente são feitas como uma forma de engajar os membros presentes com o evento enquanto mais membros chegam. As dinâmicas podem estar relacionadas ao evento, podem ser apenas uma diversão entre os membros, como jogos e brincadeiras, ou podem ser uma dinâmica que promova o conhecimento e aproximação entre os membros.
+
 > A GP comumente utiliza dinâmicas expostas nesse site: [SessionLab](https://www.sessionlab.com/blog/icebreaker-games/)

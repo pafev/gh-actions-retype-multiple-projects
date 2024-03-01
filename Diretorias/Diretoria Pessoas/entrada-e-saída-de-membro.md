@@ -3,16 +3,17 @@ label: "Entrada e Saída de um membro"
 icon: person
 author:
   name: Jéssica
-  avatar: ../../Imagens DocStruct/Pessoas/dino.png
+  avatar: ../Assets/Pessoas/dino.png
 date: 2023-11-04
 ---
+
 ## Processo Seletivo
 
 A organização do processo seletivo ocorre semestralmente, no qual a equipe de Gestão de Pessoas da Struct organiza e faz a seleção dos candidatos que serão aprovados para o Processo Trainee. Essa etapa é constituída de apresentações sobre a empresa, dinâmicas em grupo e entrevistas individuais, todos com seus critérios de avaliação bem definidos. As responsabilidades da GP envolvem a criação do formulário de interesse de participação na empresa júnior, a organização das apresentações, a criação das dinâmicas e as entrevistas de cada candidato.
 
 ## Processo de entrada de um membro
 
-O processo de entrada de um membro na Struct tem duas etapas, sendo a primeira ligada ao CDT e a segunda  ligada ao Selo EJ. Em ambas etapas, é nossa responsabilidade exigir a coleta e a assinatura de certos documentos. A primeira etapa consiste no cadastro dos membros no sistema de CDT para que estes recebam em seu histórico a Struct como atividade de extensão. Para concluir tal etapa, basta que os membros preencham e assinem os termos de compromisso e que um membro da GP envie o documento para o CDT. Este documento pode ser encontrado do drive da GP ou no link a seguir:
+O processo de entrada de um membro na Struct tem duas etapas, sendo a primeira ligada ao CDT e a segunda ligada ao Selo EJ. Em ambas etapas, é nossa responsabilidade exigir a coleta e a assinatura de certos documentos. A primeira etapa consiste no cadastro dos membros no sistema de CDT para que estes recebam em seu histórico a Struct como atividade de extensão. Para concluir tal etapa, basta que os membros preencham e assinem os termos de compromisso e que um membro da GP envie o documento para o CDT. Este documento pode ser encontrado do drive da GP ou no link a seguir:
 
 - [CDT](https://forms.office.com/Pages/ResponsePage.aspx?id=oZs17AtjK024M8jm1I-AWclQzKODPB5BlMGNlsmts3JUM1AxNFNVNk1HNzgyRVRUNllIUk1aQVlBNC4u)
 
@@ -20,7 +21,7 @@ O processo de entrada de um membro na Struct tem duas etapas, sendo a primeira l
 **OBS:** O link do documento do CDT está sempre sendo atualizado, então é possível que o formulário acima esteja fechado, verifique.
 {% endhint %}
 
-A segunda etapa se refere ao selo EJ, no qual o membro deve preencher e assinar o termo de adesão disponível no drive da diretoria.  No começo de cada ano, este documento será necessário para nos validar como EJ.
+A segunda etapa se refere ao selo EJ, no qual o membro deve preencher e assinar o termo de adesão disponível no drive da diretoria. No começo de cada ano, este documento será necessário para nos validar como EJ.
 
 {% hint style="info" %}
 **OBS:** O processo de entrada de um membro por parte do CDT está passando por constantes mudanças então é bom ficar atento aos seus canais de comunicação para não perder novas mudanças.
@@ -41,7 +42,7 @@ O termo de desligamento é separado em duas partes, sendo elas:
 - Informações Técnicas;
 - Área de preenchimento do membro desligado.
 
-Inicialmente, um membro da GP é responsável por mandar o termo de desligamento ao membro que está sendo desligado para que o preencha. O termo pode ser encontrado no Google Drive na pasta *Gestão de Pessoas -> Documentos CDT -> Termos de desligamento*. 
+Inicialmente, um membro da GP é responsável por mandar o termo de desligamento ao membro que está sendo desligado para que o preencha. O termo pode ser encontrado no Google Drive na pasta _Gestão de Pessoas -> Documentos CDT -> Termos de desligamento_.
 
 Para preencher o termo de desligamento, é necessário que o membro a ser desligado preencha 4 campos:
 
@@ -51,8 +52,8 @@ Para preencher o termo de desligamento, é necessário que o membro a ser deslig
 - "Teve alguma publicação relacionada ao projeto de extensão no qual trabalha? Se sim, fazer citação bibliográfica (autor; título; cidade; ano etc.)" Não há histórico de membros realizarem publicações acadêmicas atuando na Struct. Portanto, a não ser em casos extraordinários, a resposta aqui é não.
 
 Após o preenchimento do termo, será necessária a transformação do tipo de arquivo para pdf para a assinatura.
-{% hint style="info" %} 
-Dica: É possível transformar um documento em pdf ao clicar em *Arquivo -> Fazer download -> Documento PDF*.
+{% hint style="info" %}
+Dica: É possível transformar um documento em pdf ao clicar em _Arquivo -> Fazer download -> Documento PDF_.
 {% endhint %}
 
 ### Assinatura do Termo de Desligamento
@@ -60,18 +61,18 @@ Dica: É possível transformar um documento em pdf ao clicar em *Arquivo -> Faze
 A assinatura do termo de desligamento é realizada através do ClickSign e nele usa-se o termo de desligamento em PDF.
 Os passos para o uso do ClickSign podem ser encontrados na página [Assinatura Digital](COLOCAR O LINK DEPOIS)
 
-{% hint style="info" %} 
-Dica: Posteriormente à assinatura, certifique-se de ir nos documentos finalizados, abrir e então baixar o documento assinado para colocá-lo no drive *Gestão de Pessoas -> Documentos CDT -> Termos de desligamento -> (Ano recorrente)*.
+{% hint style="info" %}
+Dica: Posteriormente à assinatura, certifique-se de ir nos documentos finalizados, abrir e então baixar o documento assinado para colocá-lo no drive _Gestão de Pessoas -> Documentos CDT -> Termos de desligamento -> (Ano recorrente)_.
 {% endhint %}
 
 ### Acompanhamento do Membro
 
-Além do preenchimento e assinatura do termo de desligamento, o membro desligado é convidado para um acompanhamento de desligamento similar a um acompanhamento tradicional. A grande diferença é que nele perguntaremos ao membro a respeito de todo o seu período na empresa. Para ter acesso ao roteiro de desligamento, vá ao drive na pasta *Gestão de Pessoas -> Acompanhamentos -> Acompanhamento-Desligamento*.
+Além do preenchimento e assinatura do termo de desligamento, o membro desligado é convidado para um acompanhamento de desligamento similar a um acompanhamento tradicional. A grande diferença é que nele perguntaremos ao membro a respeito de todo o seu período na empresa. Para ter acesso ao roteiro de desligamento, vá ao drive na pasta _Gestão de Pessoas -> Acompanhamentos -> Acompanhamento-Desligamento_.
 
 Após o envio do pedido de desligamento pelo membro, este ainda deve prestar seus serviços à Struct por mais duas semanas. No entanto, a diretoria de Gestão de Pessoas pode optar por abster o membro para ser dispensado imediatamente.
 
-{% hint style="info" %} 
-Para saber mais sobre o processo de desligamento e Clicksign, vá no Google Drive em *Gestão de Pessoas -> Documentação GP -> Desligamento de Membro e Clicksign*.
+{% hint style="info" %}
+Para saber mais sobre o processo de desligamento e Clicksign, vá no Google Drive em _Gestão de Pessoas -> Documentação GP -> Desligamento de Membro e Clicksign_.
 {% endhint %}
 
 ## Contabilização de horas mensais para o CDT

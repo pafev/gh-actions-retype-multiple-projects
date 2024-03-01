@@ -4,9 +4,10 @@ icon: gift
 order: 1
 author:
   name: Leonardo
-  avatar: ../../ImagensDocStruct/Logos/logo_struct.png
+  avatar: ../Assets/logo_struct.png
 date: 2023-10-18
 ---
+
 # Introdução
 
 Essa página foi criada com o intuito de que se facilite o entendimento sobre cupons e prêmios para os membros.
@@ -18,7 +19,7 @@ Essa página foi criada com o intuito de que se facilite o entendimento sobre cu
 - [iFood](https://contrate-beneficios.ifood.com.br/ifood-card/compre) (Cupons variando de R$ 10,00 até R$300,00)
 - [Steam](https://store.steampowered.com/digitalgiftcards/) (Cupons variando de R$ 10,00 até R$ 200,00)
 - Para cupons mais diversos:
-    - [Americanas](https://empresas.americanas.com.br/)
+  - [Americanas](https://empresas.americanas.com.br/)
 
 ## Sites disponíveis para prêmios(Prêmios != Cupons)
 

@@ -3,7 +3,7 @@ label: "Struct Arcade"
 icon: dependabot
 author:
   name: Jéssica
-  avatar: ../../../Imagens DocStruct/Pessoas/dino.png
+  avatar: ../../Assets/Pessoas/dino.png
 date: 2023-11-08
 ---
 

@@ -4,9 +4,10 @@ icon: rocket
 order: 4
 author:
   name: Lucas
-  avatar: ../../ImagensDocStruct/Logos/logo_struct.png
+  avatar: ../Assets/logo_struct.png
 date: 2023-10-19
 ---
+
 # Administrativo-Financeiro
 
 A diretoria administrativo-financeira da Struct é o centro da burocracia e logística da empresa júnior. Documentos e dinheiro são as principais responsabilidades desta diretoria, mas ela também é responsável por cuidar da sede física e de outras responsabilidades administrativas relativas a empresa.
@@ -15,7 +16,7 @@ A diretoria administrativo-financeira da Struct é o centro da burocracia e log�
 
 Caso você tenha sido recentemente eleito como diretor\(a\) administrativo-financeiro da Struct, gostaria de parabenizá-lo! Embora essa nova atribuição venha com novas obrigações, essa seção irá detalhar todos os passos que devem ser tomados no início de sua gestão. Esses passos irão garantir que você seja, para todos os fins legais e burocráticos, identificado como diretor\(a\) administrativo-financeiro da Struct e possua as ferramentas necessárias para exercer sua função. Lembre-se que, caso haja alguma dúvida acerca do novo cargo, você sempre pode entrar em contato com os diretores e presidentes das gestões anteriores.
 
-A troca de gestão acontece anualmente \(na Struct, geralmente é efetivada em março\) e o diretor\(a\) administrativo-financeiro da Struct deve organizar os documentos legais necessários para manter os nomes da diretoria da empresa atualizados. Será necessário levar no *cartório* os documentos **ata de eleição** e **termo de posse**, autenticá-los e registrá-los.
+A troca de gestão acontece anualmente \(na Struct, geralmente é efetivada em março\) e o diretor\(a\) administrativo-financeiro da Struct deve organizar os documentos legais necessários para manter os nomes da diretoria da empresa atualizados. Será necessário levar no _cartório_ os documentos **ata de eleição** e **termo de posse**, autenticá-los e registrá-los.
 
 ### Conta bancária
 
@@ -29,18 +30,18 @@ Com todos esses passos feitos, você poderá acessar a conta bancária da Struct
 
 ### Listagem de cargo oficial
 
-Uma obrigação menor, mas de certa forma importante, após a sua posse é atualizar suas contas nos serviços utilizados pela Struct para que elas listem apropriadamente o seu novo cargo de *diretor\(a\) administrativo-financeiro*. A lista de contas a serem atualizadas inclui:
+Uma obrigação menor, mas de certa forma importante, após a sua posse é atualizar suas contas nos serviços utilizados pela Struct para que elas listem apropriadamente o seu novo cargo de _diretor\(a\) administrativo-financeiro_. A lista de contas a serem atualizadas inclui:
 
-  * Assinatura eletrônica do seu email corporativo \(verifique com a equipe de marketing se eles já iniciaram o design de uma assinatura padrão para os membros da nova gestão\);
-  * Cargo listado no *Slack* da Struct.
+- Assinatura eletrônica do seu email corporativo \(verifique com a equipe de marketing se eles já iniciaram o design de uma assinatura padrão para os membros da nova gestão\);
+- Cargo listado no _Slack_ da Struct.
 
 ### Troca de representante da Struct
 
-Caso o\(a\) presidente da empresa júnior seja alterado na troca de gestão, será necessário requisitar ao contador da empresa a troca do representante da empresa por meio do seu email corporativo. Para isso, será *provavelmente* necessário obter uma **via autenticada em cartório** dos seguintes documentos:
+Caso o\(a\) presidente da empresa júnior seja alterado na troca de gestão, será necessário requisitar ao contador da empresa a troca do representante da empresa por meio do seu email corporativo. Para isso, será _provavelmente_ necessário obter uma **via autenticada em cartório** dos seguintes documentos:
 
-  * Ata aprovação nova diretoria;
-  * Estatuto;
-  * Documento de identidade com CPF \(ou CNH\) do representante que responde judicial e extrajudicialmente \(no momento, o membro que ocupa a presidência da Struct\).
+- Ata aprovação nova diretoria;
+- Estatuto;
+- Documento de identidade com CPF \(ou CNH\) do representante que responde judicial e extrajudicialmente \(no momento, o membro que ocupa a presidência da Struct\).
 
 Após os documentos terem sido entregues ao contador e uma pequena taxa ter sido paga ao contador \(mais detalhes sobre a realização de pagamentos podem ser encontrados na seção de [Obrigações financeiras](#obrigações-financeiras)\), o representante da empresa júnior será alterado.
 
@@ -48,7 +49,7 @@ Após os documentos terem sido entregues ao contador e uma pequena taxa ter sido
 
 Como diretor\(a\) administrativo-financeiro da Struct, seu nome deve constar em alguns documentos oficiais da Struct. Ao assumir o cargo, será necessário modificar esses documentos para que suas informações estejam neles. No momento, os seguintes documentos devem ser modificados:
 
-* Modelo de contrato de prestação de serviços \(Endereço no Google Drive: "*Presidência -> Galeria de modelos -> MODELO_contrato_prestacao_servicos*"\).
+- Modelo de contrato de prestação de serviços \(Endereço no Google Drive: "_Presidência -> Galeria de modelos -> MODELO_contrato_prestacao_servicos_"\).
 
 ## Obrigações financeiras
 
@@ -56,31 +57,31 @@ A parte financeira da diretoria envolve todo o controle do caixa relativo à emp
 
 ### Aprovação de pagamentos
 
-Todos os pagamentos feitos pela Struct devem ser aprovados pelo\(a\) presidente **e** e pelo diretor\(a\) administrativo-financeiro. Dessa forma, qualquer transação a ser feita não pode ocorrer sem que ambos esses diretores acessem a conta bancária da Struct. Uma transação é primeiro proposta por um desses diretores, que deve fornecer os detalhes da transação \(conta destino, valor, data de efetivação, etc...\) para, depois, o outro diretor verificar os detalhes e assinar a transação \(na seção de *Transações pendentes*\).
+Todos os pagamentos feitos pela Struct devem ser aprovados pelo\(a\) presidente **e** e pelo diretor\(a\) administrativo-financeiro. Dessa forma, qualquer transação a ser feita não pode ocorrer sem que ambos esses diretores acessem a conta bancária da Struct. Uma transação é primeiro proposta por um desses diretores, que deve fornecer os detalhes da transação \(conta destino, valor, data de efetivação, etc...\) para, depois, o outro diretor verificar os detalhes e assinar a transação \(na seção de _Transações pendentes_\).
 
-É importante escolher datas de efetivação da transação com uma certa folga em relação ao dia em que a transação é proposta, estar em contato constante com o\(a\) presidente e verificar se existem transações pendentes constantemente, **pois transações que não forem aprovadas por ambos até a data de efetivação não irão ocorrer**. Caso uma transação já tenha sido assinada tanto pelo\(a\) presidente como pelo diretor\(a\) administrativo-financeiro mas sua data de efetivação ainda não tenha chegado, a transação poderá ser visualizada na seção de *Lançamentos futuros*.
+É importante escolher datas de efetivação da transação com uma certa folga em relação ao dia em que a transação é proposta, estar em contato constante com o\(a\) presidente e verificar se existem transações pendentes constantemente, **pois transações que não forem aprovadas por ambos até a data de efetivação não irão ocorrer**. Caso uma transação já tenha sido assinada tanto pelo\(a\) presidente como pelo diretor\(a\) administrativo-financeiro mas sua data de efetivação ainda não tenha chegado, a transação poderá ser visualizada na seção de _Lançamentos futuros_.
 
 ### Balancetes
 
 Os balancetes são documentos mensais que consistem em uma planilha que contém toda e qualquer movimentação de dinheiro dentro da empresa. Como diretor\(a\) administrativo-financeiro, é sua obrigação fazer os balancetes referentes ao mês anterior no começo de cada mês \(quando os gastos mensais já estiverem fechados\).
 
-![Exemplo de balancete](../../ImagensDocStruct/Administracao/Balancete.png)
+![Exemplo de balancete](../Assets/Administracao/Balancete.png)
 
-No começo do mês, o primeiro passo para a realização do balancete consiste no obtenção do extrato da conta bancária da Struct, o que é feito por meio do aplicativo ou do website do Banco do Brasil. Esse extrato é um arquivo *pdf* que deve ser adicionado ao Google Drive na pasta "*Administração e Financeiro -> Balancetes -> [Ano da sua gestão] -> Extratos*" com o nome "*[Número do mês] - [Nome do mês]*". Após o extrato ter sido adicionado ao Google Drive, você deve criar \(por meio do próprio Drive\) um documento do tipo "*Planilhas Google*" com base no modelo "*balancete_x*" e preencher esse documento com os ativos \(dinheiro recebido\) e passivos \(gastos\) presentes no extrato bancário desse mês.
+No começo do mês, o primeiro passo para a realização do balancete consiste no obtenção do extrato da conta bancária da Struct, o que é feito por meio do aplicativo ou do website do Banco do Brasil. Esse extrato é um arquivo _pdf_ que deve ser adicionado ao Google Drive na pasta "_Administração e Financeiro -> Balancetes -> [Ano da sua gestão] -> Extratos_" com o nome "_[Número do mês] - [Nome do mês]_". Após o extrato ter sido adicionado ao Google Drive, você deve criar \(por meio do próprio Drive\) um documento do tipo "_Planilhas Google_" com base no modelo "_balancete_x_" e preencher esse documento com os ativos \(dinheiro recebido\) e passivos \(gastos\) presentes no extrato bancário desse mês.
 
-O valor dos ativos sempre será colocado na coluna "*Devedor*" e o valor dos passivos, na coluna "*Credor*". Procure sempre descrever o ativo/passivo de forma clara e não ambígua, indicando se ele constitui uma parcela de projeto ou pagamento específico. Além disso, lembre-se de preencher o campo "*Total*" da coluna "*Saldo anterior*" com o saldo inicial do mês. Se tudo tiver sido preenchido corretamente, o campo "*Total*" da coluna "*Saldo final*" deve conter o saldo final do mês conforme indicado no extrato \(se isso não ocorrer, verifique se todos os ativos e passivos foram adicionados corretamente\). Salve o balancete gerado na pasta "*Administração e Financeiro -> Balancetes -> [Ano da sua gestão] -> Planilhas*" com o nome "*[Número do mês] - [Nome do mês]*". Em caso de dúvidas, consulte os balancetes dos meses anteriores.
+O valor dos ativos sempre será colocado na coluna "_Devedor_" e o valor dos passivos, na coluna "_Credor_". Procure sempre descrever o ativo/passivo de forma clara e não ambígua, indicando se ele constitui uma parcela de projeto ou pagamento específico. Além disso, lembre-se de preencher o campo "_Total_" da coluna "_Saldo anterior_" com o saldo inicial do mês. Se tudo tiver sido preenchido corretamente, o campo "_Total_" da coluna "_Saldo final_" deve conter o saldo final do mês conforme indicado no extrato \(se isso não ocorrer, verifique se todos os ativos e passivos foram adicionados corretamente\). Salve o balancete gerado na pasta "_Administração e Financeiro -> Balancetes -> [Ano da sua gestão] -> Planilhas_" com o nome "_[Número do mês] - [Nome do mês]_". Em caso de dúvidas, consulte os balancetes dos meses anteriores.
 
-Após gerar o extrato e preencher o balancete de um mês, uma cópia de ambos os documentos deve ser enviada para o contador da empresa no [*email de atualização mensal*](#email-de-atualização-mensal).
+Após gerar o extrato e preencher o balancete de um mês, uma cópia de ambos os documentos deve ser enviada para o contador da empresa no [_email de atualização mensal_](#email-de-atualização-mensal).
 
 ### Certificado digital
 
-A Struct possui um *certificado digital NF-e modelo A1*, o qual é necessário para que a emissão de NFEs seja realizada pela plataforma [NFE+](https://www.nfemais.com.br/) e para que o contador da Struct desempenhe certas obrigações financeiras. O certificado em si é um arquivo de extensão `.pfx` que possui uma senha de acesso. Para que o certificado possa ser instalado, é necessário ter tanto o arquivo de extensão `.pfx` como a senha de acesso. Esse certificado possui validade de 1 ano, com o vencimento do certificado atual ocorrendo aproximadamente no fim de Outubro.
+A Struct possui um _certificado digital NF-e modelo A1_, o qual é necessário para que a emissão de NFEs seja realizada pela plataforma [NFE+](https://www.nfemais.com.br/) e para que o contador da Struct desempenhe certas obrigações financeiras. O certificado em si é um arquivo de extensão `.pfx` que possui uma senha de acesso. Para que o certificado possa ser instalado, é necessário ter tanto o arquivo de extensão `.pfx` como a senha de acesso. Esse certificado possui validade de 1 ano, com o vencimento do certificado atual ocorrendo aproximadamente no fim de Outubro.
 
 Como diretor\(a\) administrativo-financeiro da Struct, cabe a você entrar em contato com o\(a\) presidente da Struct para que um novo certificado possa ser comprado quando o certificado atual expirar. A compra do certificado precisa contar apenas com a presença do\(a\) presidente da Struct como representante oficial da Struct e é feita por meio de um agendamento online de atendimento presencial \(o qual é necessário para conferência de alguns documentos de identificação\), então procure se organizar com antecedência. Existe a possibilidade da realização de um processo por videoconferência, mas, para isso, é necessário que o\(a\) presidente da Struct possua cadastro biométrico no Serasa, o que é pouco provável de ocorrer.
 
 #### Compra de um novo certificado
 
-Para comprar um novo *certificado digital*, basta acessar o site de [certificados digitais do serasa](https://serasa.certificadodigital.com.br/) e seguir os passos abaixo. **É preferível que os passos 1 a 4 desse processo sejam feitos pelo\(a\) presidente da Struct e que os demais passos sejam feitos pelo\(a\) diretor\(a\) administrativo-financeiro.**
+Para comprar um novo _certificado digital_, basta acessar o site de [certificados digitais do serasa](https://serasa.certificadodigital.com.br/) e seguir os passos abaixo. **É preferível que os passos 1 a 4 desse processo sejam feitos pelo\(a\) presidente da Struct e que os demais passos sejam feitos pelo\(a\) diretor\(a\) administrativo-financeiro.**
 
 1. No menu de compra de certificado à direita da tela inicial, selecione as opções de "NF-e", "A1 - Arquivo" e "12 meses" para as os itens "Certificado", "Dispositivo" e "Validade", respectivamente, e clique em "Comprar certificado".
 
@@ -88,13 +89,13 @@ Para comprar um novo *certificado digital*, basta acessar o site de [certificado
 
 3. Preencha a tela com os seus dados e agende um horário de atendimento.
 
-4. Compareça ao atendimento presencial agendado, lembrando-se de levar consigo um documento oficial de identificação e os **[demais documentos necessários especificados pelo Serasa](https://serasa.certificadodigital.com.br/documentos-necessarios)**. Esteja atento a qualquer orientação adicional fornecida por email \(ou seja, isso é quase um ENEM, mas sem a necessidade de levar canetas esferográficas de tinta preta\). *Caso os passos anteriores não tenham sido feitos pelo\(a\) presidente da Struct*, lembre-se que **o\(a\) presidente da Struct precisará estar presente nesse atendimento.** Nesse atendimento, você irá criar uma senha. Essa senha **não é** a senha do certificado em si, mas sim a **senha de acesso ao protocolo do certificado**, necessária para a emissão online do certificado digital.
+4. Compareça ao atendimento presencial agendado, lembrando-se de levar consigo um documento oficial de identificação e os **[demais documentos necessários especificados pelo Serasa](https://serasa.certificadodigital.com.br/documentos-necessarios)**. Esteja atento a qualquer orientação adicional fornecida por email \(ou seja, isso é quase um ENEM, mas sem a necessidade de levar canetas esferográficas de tinta preta\). _Caso os passos anteriores não tenham sido feitos pelo\(a\) presidente da Struct_, lembre-se que **o\(a\) presidente da Struct precisará estar presente nesse atendimento.** Nesse atendimento, você irá criar uma senha. Essa senha **não é** a senha do certificado em si, mas sim a **senha de acesso ao protocolo do certificado**, necessária para a emissão online do certificado digital.
 
 5. Após o atendimento presencial, o endereço de email cadastrado no passo 3 deverá receber um email detalhando um passo a passo a ser seguido para a emissão online do certificado. Esse email também terá um número de protocolo, o qual será necessário, juntamente com a senha criada no atendimento presencial, para emitir o certificado online. Geralmente, faz-se necessário até 24 horas para que o email seja enviado e que o certificado possa ser emitido.
 
-6. Quando o email for recebido, siga as instruções do email para a emissão do certificado. O email provavelmente irá conter um link para o site de [instalação do certificado digital](https://serasa.certificadodigital.com.br/instalacaoa1/) e instruções adicionais sobre plugins e programas a serem instalados para que o certificado digital possa ser emitido. Nesse passo, a **senha do certificado será criada**. *Guarde bem essa senha*, pois você precisará dela depois.
+6. Quando o email for recebido, siga as instruções do email para a emissão do certificado. O email provavelmente irá conter um link para o site de [instalação do certificado digital](https://serasa.certificadodigital.com.br/instalacaoa1/) e instruções adicionais sobre plugins e programas a serem instalados para que o certificado digital possa ser emitido. Nesse passo, a **senha do certificado será criada**. _Guarde bem essa senha_, pois você precisará dela depois.
 
-7. Após emitir o certificado com sucesso, você deverá ter feito o download de um arquivo `.pfx` e deverá ter criado a senha do certificado digital. Cadastre o novo certificado no site do [NFE+](https://www.nfemais.com.br/) se logando no website e seguindo o caminho: "*Aba de configurações -> Região de certificado digital A1 -> Enviar novo certificado*". Além disso, envie o arquivo `.pfx` e a senha do certificado digital ao contador da Struct. Não se esqueça de *pagar o valor do certificado digital*, do contrário ele poderá vencer antes que o esperado.
+7. Após emitir o certificado com sucesso, você deverá ter feito o download de um arquivo `.pfx` e deverá ter criado a senha do certificado digital. Cadastre o novo certificado no site do [NFE+](https://www.nfemais.com.br/) se logando no website e seguindo o caminho: "_Aba de configurações -> Região de certificado digital A1 -> Enviar novo certificado_". Além disso, envie o arquivo `.pfx` e a senha do certificado digital ao contador da Struct. Não se esqueça de _pagar o valor do certificado digital_, do contrário ele poderá vencer antes que o esperado.
 
 ### Contador
 
@@ -106,10 +107,10 @@ Como diretor\(a\) administrativo-financeiro da Struct, cabe a você realizar os 
 
 Alguns documentos deverão ser regularmente enviados ao contador. Para facilitar o trabalho do contador de localizar e gerenciar esses documentos, o envio eletrônico desses documentos deve ser feito por meio de **um único email enviado mensalmente**, o qual deve ser enviado **entre o 1º dia do mês e o 5º dia útil do mês**. Esse email de atualização mensal deve conter os seguintes documentos:
 
-* Balancete do mês anterior;
-* Extrato bancário do mês anterior;
-* Notas de entrada e saída emitidas no mês anterior;
-* Notas fiscais eletrônicas emitidas no mês anterior;
+- Balancete do mês anterior;
+- Extrato bancário do mês anterior;
+- Notas de entrada e saída emitidas no mês anterior;
+- Notas fiscais eletrônicas emitidas no mês anterior;
 
 ### Fiscalização de parcelas
 
@@ -129,19 +130,19 @@ As notas de entrada e saída são notas fiscais emitidas com o CNPJ \(Cadastro N
 
 As notas de entrada representam ativos para a empresa júnior e geralmente são notas fiscais eletrônicas emitidas quando um projeto termina de ser pago pelo cliente \(veja [essa seção](#notas-fiscais-eletrônicas) para mais detalhes\). Enquanto isso, as notas de saída representam passivos \(gastos\) para a Struct e geralmente são notas fiscais fornecidas pelas empresas contratadas pela Struct quando a última parcela do contrato é paga \(caso isso não ocorra, entre em contato com a empresa contratada para requisitar a emissão da nota fiscal\).
 
-Tanto as notas de entrada como as notas de saída devem ser enviadas para o contador da empresa no [*email de atualização mensal*](#email-de-atualização-mensal), tarefa que cabe a você, diretor\(a\) administrativo-financeiro da Struct.
+Tanto as notas de entrada como as notas de saída devem ser enviadas para o contador da empresa no [_email de atualização mensal_](#email-de-atualização-mensal), tarefa que cabe a você, diretor\(a\) administrativo-financeiro da Struct.
 
 ### Notas fiscais eletrônicas
 
-Uma nota fiscal eletrônica é um documento eletrônico que serve para documentar a prestação de serviços realizada pela Struct. Este documento é geralmente emitido quando o cliente finaliza o pagamento das parcelas do projeto ou, mais raramente, a pedido do cliente. Como diretor\(a\) administrativo-financeiro da Struct, é sua obrigação emitir as notas fiscais eletrônicas de cada projeto da Struct e enviá-las para o cliente do projeto assim que possível e para *o contador* no [*email de atualização mensal*](#email-de-atualização-mensal).
+Uma nota fiscal eletrônica é um documento eletrônico que serve para documentar a prestação de serviços realizada pela Struct. Este documento é geralmente emitido quando o cliente finaliza o pagamento das parcelas do projeto ou, mais raramente, a pedido do cliente. Como diretor\(a\) administrativo-financeiro da Struct, é sua obrigação emitir as notas fiscais eletrônicas de cada projeto da Struct e enviá-las para o cliente do projeto assim que possível e para _o contador_ no [_email de atualização mensal_](#email-de-atualização-mensal).
 
-{% hint style="warning" %} 
-Legalmente falando, é possível para o cliente exigir a emissão da Nota Fiscal antes da realização do pagamento. Se for o caso do cliente fazer essa exigência, concorde e emita a NFE, mas redobre o cuidado na fiscalização do pagamento. 
+{% hint style="warning" %}
+Legalmente falando, é possível para o cliente exigir a emissão da Nota Fiscal antes da realização do pagamento. Se for o caso do cliente fazer essa exigência, concorde e emita a NFE, mas redobre o cuidado na fiscalização do pagamento.
 {% endhint %}
 
 Para emitir uma nota fiscal eletrônica, utilize a conta da Struct para acessar a plataforma da [NFE+](https://www.nfemais.com.br/) \(caso você não saiba a conta da Struct para a plataforma NFE+, pergunte essa informação para o presidente atual da Struct ou para o último membro a ocupar a função de diretor administrativo-financeiro\).
 
-![Tela do site NFE+](../../ImagensDocStruct/Administracao/Tela_NFE+.png)
+![Tela do site NFE+](../Assets/Administracao/Tela_NFE+.png)
 
 Ao clicar no nome de um destinatário, na segunda coluna, é possível ver as informações daquela nota fiscal, o que ajuda no preenchimento de novas notas fiscais em casos de dúvidas. Tome um momento para se familiarizar com as notas fiscais existentes porque isso ajudará a sanar quaisquer dúvidas relativas ao processo como um todo de forma muito mais rápida que fazer perguntas para os últimos diretores administrativo-financeiros da Struct \(eu falo por experiência própria\).
 
@@ -153,27 +154,27 @@ Para emitir uma nota fiscal eletrônica, basta clicar em “Criar nova nota” e
 
 2. Na região "Dados do destinatário", preencher os campos do cliente do serviço e utilizar a plataforma [SINTEGRA](http://www.sintegra.gov.br/) para consultar a inscrição estadual e verificar o ICMS a ser preenchido. Caso a plataforma retorne a mensagem "CONTRIBUINTE NÃO CADASTRADO COMO CONTRIBUINTE DE ICMS.", altere o valor do campo "Indicador de IE" para "Não contribuinte".
 
-3. Na região "Lista de produtos", clique em inserir item, e altere o campo "Dados gerais do ..." de "Produto" para "Serviço". No campo "Nome do serviço", clique na lupa lateral "Listar 50" e escolha "Aplicação web" ou "Hospedagem aplicação web". No campo "CFOP", marque o mesmo que foi marcado no campo "Natureza da operação" da seção de "Dados gerais", de acordo com a localidade do cliente. No campo "Refer. GTIN/EAN", escreva “SEM GTIN”, selecione "UN" em "Unid. Comercial" e altere o campo "Valor unitário" para o valor da parcela da nota fiscal a ser emitida \(coloque o valor total de todas as parcelas do projeto pagas até então\). Na região "ISSQN", clique em “buscar” no campo "Item lista serviço" e escolha o mais pertinente \(geralmente o item 01.01 - Análise e desenvolvimento de sistemas ou o item 01.07 - Suporte técnico em informática [...] \), insira "DF" e "Brasília" como UF e munícipio da prestação do serviço e em UF e munícipio do imposto insira a localidade do cliente e preencha o campo "Alíquota ISSQN \(%\)" de acordo com o estado do imposto \(no momento 2% para *suporte técnico em informática* e 5% para *Análise e desenvolvimento de sistemas* no DF, mas verifique essa informação pesquisando no *Google*\). Na região "PIS", preencha o campo "Situação tributária" como "08: Operação sem Incidência da contribuição". Na região "COFINS", preencha o campo "Alíquota COFINS" \(7,6% no momento, mas verifique essa informação pesquisando no *Google*\). Por fim, respire fundo e clique em "Salvar".
+3. Na região "Lista de produtos", clique em inserir item, e altere o campo "Dados gerais do ..." de "Produto" para "Serviço". No campo "Nome do serviço", clique na lupa lateral "Listar 50" e escolha "Aplicação web" ou "Hospedagem aplicação web". No campo "CFOP", marque o mesmo que foi marcado no campo "Natureza da operação" da seção de "Dados gerais", de acordo com a localidade do cliente. No campo "Refer. GTIN/EAN", escreva “SEM GTIN”, selecione "UN" em "Unid. Comercial" e altere o campo "Valor unitário" para o valor da parcela da nota fiscal a ser emitida \(coloque o valor total de todas as parcelas do projeto pagas até então\). Na região "ISSQN", clique em “buscar” no campo "Item lista serviço" e escolha o mais pertinente \(geralmente o item 01.01 - Análise e desenvolvimento de sistemas ou o item 01.07 - Suporte técnico em informática [...] \), insira "DF" e "Brasília" como UF e munícipio da prestação do serviço e em UF e munícipio do imposto insira a localidade do cliente e preencha o campo "Alíquota ISSQN \(%\)" de acordo com o estado do imposto \(no momento 2% para _suporte técnico em informática_ e 5% para _Análise e desenvolvimento de sistemas_ no DF, mas verifique essa informação pesquisando no _Google_\). Na região "PIS", preencha o campo "Situação tributária" como "08: Operação sem Incidência da contribuição". Na região "COFINS", preencha o campo "Alíquota COFINS" \(7,6% no momento, mas verifique essa informação pesquisando no _Google_\). Por fim, respire fundo e clique em "Salvar".
 
 4. Na região "Informações de serviços", marque o checkbox "Informar dados de serviços" e deixe o campo "Regime de tributação" em "Microempresa municipal".
 
 5. Na região "Dados do transporte", altere o campo "Modalidade de frete" para "9 – Sem Ocorrência de Transporte".
 
-6. Por fim, basta salvar e enviar a nota fiscal e esperar o status de “Autorizada” na coluna de "Situação" da mesma. Quando isso ocorrer, clique no minúsculo ícone de impressora ao lado do texto "Autorizada" para baixar a nota fiscal eletrônica. Salve o documento baixado no *Google Drive* na pasta "*Administração e Financeiro -> Nota Fiscal Eletrônica -> [Ano da sua gestão] -> [Número do mês] - [Nome do mês]*" com o nome "*NFE[Número da nota fiscal] - [Nome do cliente]*". Após salvar o documento, envie ele para o cliente do projeto assim que possível e para o contador no [*email de atualização mensal*](#email-de-atualização-mensal).
+6. Por fim, basta salvar e enviar a nota fiscal e esperar o status de “Autorizada” na coluna de "Situação" da mesma. Quando isso ocorrer, clique no minúsculo ícone de impressora ao lado do texto "Autorizada" para baixar a nota fiscal eletrônica. Salve o documento baixado no _Google Drive_ na pasta "_Administração e Financeiro -> Nota Fiscal Eletrônica -> [Ano da sua gestão] -> [Número do mês] - [Nome do mês]_" com o nome "_NFE[Número da nota fiscal] - [Nome do cliente]_". Após salvar o documento, envie ele para o cliente do projeto assim que possível e para o contador no [_email de atualização mensal_](#email-de-atualização-mensal).
 
 #### Pagamento de COFINS e ISS
 
 Todo o mês em que ao menos uma nota fiscal eletrônica for emitida e enviada para o contador, a Struct terá que realizar o pagamento dos impostos COFINS e ISS sobre todas as notas fiscais eletrônicas emitidas naquele mês. Os documentos bancários utilizados para a realização do pagamento são gerados pelo próprio contador e enviados geralmente na metade do mês seguinte à emissão das notas fiscais eletrônicas. Como diretor\(a\) administrativo-financeiro da Struct, é sua responsabilidade realizar esses pagamentos.
 
-Para realizar o pagamento desses impostos, utilize a seção "*Pagamentos -> Leitor de código de barras*" do site ou do aplicativo do Banco do Brasil. O leitor de código de barras propriamente dito geralmente não funciona, mas a tela do leitor fornece as opções "Digitar código" e "Abrir PDF", as quais funcionam. Após o documento de pagamento ser reconhecido, o pagamento deve ser agendado e designado como "Débito na conta corrente". Por fim, não se esqueça de pedir para que o\(a\) presidente da Struct aprove a transação e de enviar os comprovantes de pagamento para o contador.
+Para realizar o pagamento desses impostos, utilize a seção "_Pagamentos -> Leitor de código de barras_" do site ou do aplicativo do Banco do Brasil. O leitor de código de barras propriamente dito geralmente não funciona, mas a tela do leitor fornece as opções "Digitar código" e "Abrir PDF", as quais funcionam. Após o documento de pagamento ser reconhecido, o pagamento deve ser agendado e designado como "Débito na conta corrente". Por fim, não se esqueça de pedir para que o\(a\) presidente da Struct aprove a transação e de enviar os comprovantes de pagamento para o contador.
 
 ### Pagamento de dívidas
 
 Muitas vezes, os membros da Struct realizam gastos em nome da empresa júnior, como, por exemplo, na autenticação de documentos em cartório, na confecção de material publicitário e na compra de comida para alguma atividade da empresa júnior \(por exemplo, pizza no fim de um coding day\). Como diretor\(a\) administrativo-financeiro, é sua obrigação registrar essas dívidas contraídas pela Struct para com os seus membros e pagar elas assim que possível.
 
-Para registrar as dívidas da Struct, utilize a planilha "*Administração e Financeiro -> Dívidas/Gastos/Projetos -> Dívidas*" e anote a data da dívida, em que consistiu o gasto, qual membro realizou o gasto, o valor do gasto e se o gasto foi pago ou não. Assim que possível, entre em contato com o membro que realizou o gasto, obtenha as informações de pagamento do membro, realize uma transferência da conta bancária da Struct para o membro no valor referente a dívida e, por fim, marque a dívida como paga na planilha.
+Para registrar as dívidas da Struct, utilize a planilha "_Administração e Financeiro -> Dívidas/Gastos/Projetos -> Dívidas_" e anote a data da dívida, em que consistiu o gasto, qual membro realizou o gasto, o valor do gasto e se o gasto foi pago ou não. Assim que possível, entre em contato com o membro que realizou o gasto, obtenha as informações de pagamento do membro, realize uma transferência da conta bancária da Struct para o membro no valor referente a dívida e, por fim, marque a dívida como paga na planilha.
 
-A planilha de dívidas também possui campos que indicam o total da dívida da Struct para um membro específico, permitindo que um único pagamento seja realizado para sanar várias dívidas contraídas por esse membro. Para configurar a lógica desses campos, basta você colocar o nome do membro na coluna "*A QUEM*" \(embaixo do total da dívida da Struct\) e utilizar os textos "SIM" e "NÃO" \(em caixa alta\) na coluna "*PAGO?*".
+A planilha de dívidas também possui campos que indicam o total da dívida da Struct para um membro específico, permitindo que um único pagamento seja realizado para sanar várias dívidas contraídas por esse membro. Para configurar a lógica desses campos, basta você colocar o nome do membro na coluna "_A QUEM_" \(embaixo do total da dívida da Struct\) e utilizar os textos "SIM" e "NÃO" \(em caixa alta\) na coluna "_PAGO?_".
 
 ## Obrigações administrativas
 
@@ -181,19 +182,20 @@ A parte administrativa da diretoria envolve o gerenciamento de documentos e o cu
 
 ### Selo EJ
 
-O selo EJ é um selo criado pela Concentro, com o objetivo de garantir um mínimo de segurança jurídica às organizações ao proporcionar credibilidade para a empresa júnior frente aos seus *stakeholders*. Além disso, o selo EJ também possui o propósito de trazer uniformidade ao Movimento Empresa Júnior brasileiro. Como diretor\(a\) administrativo-financeiro da Struct, é sua obrigação coordenar com o\(a\) presidente da Struct a entrega dos documentos necessários para a emissão do selo EJ a cada ano, verificando regularmente os prazos de entrega no portal Brasil Júnior. Esses documentos também devem ser adicionados ao *Google Drive* na pasta "*Administração e Financeiro -> Selo EJ -> Selo EJ [Ano da sua gestão]*".
+O selo EJ é um selo criado pela Concentro, com o objetivo de garantir um mínimo de segurança jurídica às organizações ao proporcionar credibilidade para a empresa júnior frente aos seus _stakeholders_. Além disso, o selo EJ também possui o propósito de trazer uniformidade ao Movimento Empresa Júnior brasileiro. Como diretor\(a\) administrativo-financeiro da Struct, é sua obrigação coordenar com o\(a\) presidente da Struct a entrega dos documentos necessários para a emissão do selo EJ a cada ano, verificando regularmente os prazos de entrega no portal Brasil Júnior. Esses documentos também devem ser adicionados ao _Google Drive_ na pasta "_Administração e Financeiro -> Selo EJ -> Selo EJ [Ano da sua gestão]_".
 
-No *Google Drive*, existem modelos para os documentos necessários na pasta "*Administração e Financeiro -> Modelos*" e exemplos de documentos utilizados para o selo EJ nos anos anteriores nas pastas "*Administração e Financeiro -> Selo EJ -> Selo EJ [Anos anteriores a sua gestão]*".
+No _Google Drive_, existem modelos para os documentos necessários na pasta "_Administração e Financeiro -> Modelos_" e exemplos de documentos utilizados para o selo EJ nos anos anteriores nas pastas "_Administração e Financeiro -> Selo EJ -> Selo EJ [Anos anteriores a sua gestão]_".
 
 Nas subseções abaixo, temos o detalhamento de alguns documentos geralmente requisitados para o selo EJ.
 
 #### 1. Estatuto social
 
 Caso **não** existam mudanças no estatuto social da Struct em relação ao ano anterior, sinta-se livre para utilizar o documento enviado para o último selo EJ. Caso contrário, o novo estatuto social precisa ser registrado oficialmente. Para isso, basta levar no cartório de pessoa jurídica os seguintes documentos:
-  - Estatuto social alterado
-  - Ata da assembleia em que foi discutida a mudança do estatuto
-  - Requerimento de registro da ata em questão
-  - Requerimento de registro do estatuto em questão
+
+- Estatuto social alterado
+- Ata da assembleia em que foi discutida a mudança do estatuto
+- Requerimento de registro da ata em questão
+- Requerimento de registro do estatuto em questão
 
 #### 2. Ata de eleição e termo de posse da gestão em exercício
 
@@ -219,20 +221,21 @@ Para obter esse documento, basta acessar o [site da Secretaria de Estado de Faze
 
 A RAIS Negativa é um documento que pode ser emitido no [site da RAIS](https://goo.gl/eF3h23). Para o preenchimento dos campos de formulário, utilize as imagens abaixo como base.
 
-  ![Tela 1](../../ImagensDocStruct/Administracao/Tela_RAIS_1.png)
+![Tela 1](../Assets/Administracao/Tela_RAIS_1.png)
 
-  ![Tela 2](../../ImagensDocStruct/Administracao/Tela_RAIS_2.png)
+![Tela 2](../Assets/Administracao/Tela_RAIS_2.png)
 
-  ![Tela 3](../../ImagensDocStruct/Administracao/Tela_RAIS_3.png)
+![Tela 3](../Assets/Administracao/Tela_RAIS_3.png)
 
-  ![Tela 4](../../ImagensDocStruct/Administracao/Tela_RAIS_4.png)
+![Tela 4](../Assets/Administracao/Tela_RAIS_4.png)
 
 Observações:
-  - A atividade econômica e natureza jurídica da empresa júnior podem ser encontradas no documento do CNPJ.
-  - O porte da empresa júnior diz respeito à receita produzida em um ano, seguindo a seguinte relação como referência: até 360k, micro empresa, e até 3600k, pequena empresa.
-  - Para certificar se a empresa júnior é optante pelo Simples ou não, basta consultar [esse site](https://goo.gl/1kc4Pn).
-  - Na aba de endereço do estabelecimento \(Tela 2\), a imagem não mostra o email e telefone digitados para não comprometer a privacidade de ex-membros da Struct, mas é importante que os dados \(endereço, email, telefone...\) estejam de acordo com o que está cadastrado no CNPJ também.
-  - A aba de responsável pela declaração \(Tela 4\) deve ser preenchida com os dados de quem está gerando o documento.
+
+- A atividade econômica e natureza jurídica da empresa júnior podem ser encontradas no documento do CNPJ.
+- O porte da empresa júnior diz respeito à receita produzida em um ano, seguindo a seguinte relação como referência: até 360k, micro empresa, e até 3600k, pequena empresa.
+- Para certificar se a empresa júnior é optante pelo Simples ou não, basta consultar [esse site](https://goo.gl/1kc4Pn).
+- Na aba de endereço do estabelecimento \(Tela 2\), a imagem não mostra o email e telefone digitados para não comprometer a privacidade de ex-membros da Struct, mas é importante que os dados \(endereço, email, telefone...\) estejam de acordo com o que está cadastrado no CNPJ também.
+- A aba de responsável pela declaração \(Tela 4\) deve ser preenchida com os dados de quem está gerando o documento.
 
 Depois do preenchimento das telas, basta enviar a declaração e pegar o comprovante de envio.
 
@@ -260,9 +263,8 @@ Esses documentos consistem, respectivamente, no documento de dados pessoais de t
 
 #### 13. Comprovante de reconhecimento da IES
 
-Este documento é redigido pela Struct e assinado tanto pelo\(a\) coordenador\(a\) do curso de Engenharia de Computação como pelo\(a\) orientador\(a\) da Struct. Um modelo do documento pode ser encontrado no *Google Drive* em "*Administração e Financeiro -> Modelos -> Institucional*".
+Este documento é redigido pela Struct e assinado tanto pelo\(a\) coordenador\(a\) do curso de Engenharia de Computação como pelo\(a\) orientador\(a\) da Struct. Um modelo do documento pode ser encontrado no _Google Drive_ em "_Administração e Financeiro -> Modelos -> Institucional_".
 
 ### Sede
 
 A sede da Struct é uma sala localizada no prédio SG-11 da Universidade de Brasília \(UnB\). Como diretor\(a\) administrativo-financeiro da Struct, é sua obrigação garantir que a sede esteja sempre limpa e bem organizada, de forma que todos os membros possuam usufruir desse espaço e que ele forneça uma boa impressão da empresa júnior para visitantes. A boa organização da sede deve permitir que qualquer documento ou item seja facilmente encontrado por algum dos membros da Struct. Por fim, o gerenciamento dos item que estejam em falta na sede \(marcadores, papel, inseticida, etc...\) também é uma função da diretoria administrativo-financeira.
-

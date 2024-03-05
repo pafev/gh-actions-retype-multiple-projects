@@ -1,31 +1,30 @@
-name: Continuous Deployment
+name: Publish to GitHub Pages
 on:
   workflow_dispatch:
   push:
     branches:
       - main
     paths:
-      # - "./Stack"
-      # - "./Ferramentas-de-Ambiente"
-      # - "./Organizacao-Interna"
       - "public/**"
+  workflow_run:
+    types: completed
+    workflows:
+      - "Build Ferramentas de Ambiente"
+      - "Build Organizacao Interna"
+      - "Build Stack"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  deploy:
+  publish:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-
-    concurrency:
-      group: "pages"
-      cancel-in-progress: false
 
     steps:
       - uses: actions/checkout@v4

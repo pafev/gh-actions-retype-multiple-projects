@@ -5,9 +5,10 @@ on:
     branches:
       - main
     paths:
-      - "./Stack"
-      - "./Ferramentas-de-Ambiente"
-      - "./Organizacao-Interna"
+      # - "./Stack"
+      # - "./Ferramentas-de-Ambiente"
+      # - "./Organizacao-Interna"
+      - "./public"
 
 jobs:
   deploy:

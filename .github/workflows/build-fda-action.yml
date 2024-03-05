@@ -1,0 +1,23 @@
+name: Build Ferramentas de Ambiente
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "Ferramentas-de-Ambiente/**"
+  workflow_run:
+    workflows:
+      - Continuous Deployment
+    types: completed
+
+jobs:
+  build-ferrramentas-de-ambiente:
+    runs-on: ubuntu-lates
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: build de ferramentas de ambiente
+        run: retype build ./Ferramentas-de-Ambiente/retype.yml --output ./public/ferramentas-de-ambiente

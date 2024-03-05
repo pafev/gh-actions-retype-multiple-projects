@@ -4,9 +4,8 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - README.md
-      - .gitignore
+    paths:
+      - "public/**"
 
 jobs:
   deploy:
@@ -38,9 +37,6 @@ jobs:
 
       - name: build organizacao interna
         run: retype build ./Organizacao-Interna/retype.yml --output ./public/organizacao-interna
-
-      - name: build de ferramentas de ambiente
-        run: retype build ./Ferramentas-de-Ambiente/retype.yml --output ./public/ferramentas-de-ambiente
 
       - name: build de stack
         run: retype build ./Stack/retype.yml --output ./public/stack

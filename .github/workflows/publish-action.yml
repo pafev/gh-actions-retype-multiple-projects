@@ -29,23 +29,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: setup dotnet
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: 6.x
-
-      - name: install retypeapp with dotnet tool
-        run: dotnet tool install retypeapp --global
-
-      - name: build organizacao interna
-        run: retype build ./Organizacao-Interna/retype.yml --output ./public/organizacao-interna
-
-      - name: build de ferramentas de ambiente
-        run: retype build ./Ferramentas-de-Ambiente/retype.yml --output ./public/ferramentas-de-ambiente
-
-      - name: build de stack
-        run: retype build ./Stack/retype.yml --output ./public/stack
-
       - name: setup pages
         uses: actions/configure-pages@v4
 

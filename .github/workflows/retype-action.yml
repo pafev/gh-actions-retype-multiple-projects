@@ -1,0 +1,58 @@
+name: Continuous Deployment
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - README.md
+      - .gitignore
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    concurrency:
+      group: "pages"
+      cancel-in-progress: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: setup dotnet
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 6.x
+
+      - name: install retypeapp with dotnet tool
+        run: dotnet tool install retypeapp --global
+
+      - name: build organizacao interna
+        run: retype build ./Organizacao-Interna/retype.yml --output ./public/organizacao-interna
+
+      - name: build de ferramentas de ambiente
+        run: retype build ./Ferramentas-de-Ambiente/retype.yml --output ./public/ferramentas-de-ambiente
+
+      - name: build de stack
+        run: retype build ./Stack/retype.yml --output ./public/stack
+
+      - name: setup pages
+        uses: actions/configure-pages@v4
+
+      - name: upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./public"
+
+      - name: deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

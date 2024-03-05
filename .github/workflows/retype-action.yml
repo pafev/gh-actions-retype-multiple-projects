@@ -36,6 +36,9 @@ jobs:
       - name: install retypeapp with dotnet tool
         run: dotnet tool install retypeapp --global
 
+      - name: seeing event
+        run: echo ${{github.event}}
+
       - name: build organizacao interna
         run: retype build ./Organizacao-Interna/retype.yml --output ./public/organizacao-interna
 

@@ -8,7 +8,7 @@ on:
       # - "./Stack"
       # - "./Ferramentas-de-Ambiente"
       # - "./Organizacao-Interna"
-      - public
+      - "./public/**"
 
 jobs:
   deploy:

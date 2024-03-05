@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "./Stack"
+      - "./Ferramentas-de-Ambiente"
+      - "./Organizacao-Interna"
 
 jobs:
   deploy:

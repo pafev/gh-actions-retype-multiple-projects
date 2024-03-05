@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "Ferramentas-de-Ambiente"
+      - "Ferramentas-de-Ambiente/**"
   workflow_run:
     workflows:
       - Continuous Deployment

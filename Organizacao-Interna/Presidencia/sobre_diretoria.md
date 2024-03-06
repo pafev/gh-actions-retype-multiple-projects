@@ -3,7 +3,7 @@ label: "Bem-vindo a Diretoria Financeira"
 icon: rocket
 author:
   name: Lucas
-  avatar: ../Assets/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-11-24
 ---
 

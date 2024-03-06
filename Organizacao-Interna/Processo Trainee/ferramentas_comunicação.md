@@ -3,7 +3,7 @@ label: "Ferramentas de Comunicação"
 icon: megaphone
 author:
   name: Jéssica
-  avatar: ../Assets/Pessoas/dino.png
+  avatar: ../assets/pessoas/dino.png
 date: 2023-12-08
 ---
 
@@ -21,7 +21,7 @@ Bom, com a chegada da pandemia, precisávamos nos adaptar, passando a fazer noss
 
 Para utilizar o discord, basta criar uma conta no [site da plataforma](https://discord.com/) (caso ainda não tenha) e baixar o aplicativo (ou usar a versão do navegador mesmo, caso se sinta mais confortável). Em seguida, você deve receber um link para entrar no servidor da Struct no discord e sua tela será algo assim:
 
-![servidor da struct](../Assets/Trainee/discord.png)
+![servidor da struct](../assets/trainee/discord.png)
 
 Para entrar em um canal, basta clicar nele com o botão esquerdo do mouse. A maioria dos nomes estão bem autoexplicativos, mas vou passar explicando alguns mais a fundo:
 
@@ -53,13 +53,13 @@ O slack é ótimo para mantermos mais organizadas todas as mensagens que estão 
 
 Inicialmente, será necessário [criar uma conta](https://app.slack.com/ssb/get-started?ssb_vid=.e0xa6ly5iuia7euzkvar9s9ty&ssb_instance_id=dfc3cfac-fa9b-58d4-a24c-3daf75e1b4f5&v=4.18.0#/create), em seguida recomendo que [instale o aplicativo](https://slack.com/intl/pt-br/downloads/windows). Após ser convidado a entrar no workspace da Struct, abra seu aplicativo e verá essa tela:
 
-![Slack welcome screen](../Assets/Trainee/slack-init.png)
+![Slack welcome screen](../assets/trainee/slack-init.png)
 
 Clique no botão verde central e você será redirecionado para uma página solicitando seu login. Após efetuar seu login, o seu workspace deve ser aberto automaticamente, caso não seja, insira o workspace da struct (struct-ej).
 
 Já dentro do workspace, sua tela deveria ser algo assim:
 
-![Slack](../Assets/Trainee/slack.png)
+![Slack](../assets/trainee/slack.png)
 
 Nele, provavelmente você estará em 3 canais:
 

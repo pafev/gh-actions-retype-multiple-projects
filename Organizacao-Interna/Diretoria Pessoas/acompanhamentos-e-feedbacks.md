@@ -3,7 +3,7 @@ label: "Acompanhamentos e Feedbacks"
 icon: comment-discussion
 author:
   name: Jéssica
-  avatar: ../Assets/Pessoas/dino.png
+  avatar: ../assets/pessoas/dino.png
 date: 2023-11-04
 ---
 
@@ -65,7 +65,7 @@ As entrevistas podem ser realizadas tanto virtualmente quanto pessoalmente, desd
 O Plano de Densenvolvimento Individual (PDI) é um plano de ação cujo foco é no desenvolvimento pessoal e/ou profissional. A partir do PDI, cria-se um roteiro para tornar possível o aprimoramento das competências individuais por meio de metas, estratégias e prazos. Na GP, a primeira vez em que o PDI é aplicado é quando o membro é efetivado na Stuct e o acompanhamento de sua evolução é feito a cada dois Struct Talks. Nesse sentido, a aplicação é realizada por meio de uma tabela, que pode ser feita tanto em uma folha avulsa quanto em uma tabela virtual, a qual está disponível no drive da GP em _Gestão de Pessoas -> PDI -> Tabela PDI_ e deve ser salva no drive pessoal do participante para o preenchimento.
 
 - Para salvar no drive pessoal: - _Arquivo -> Fazer uma cópia -> Selecione a pasta “Meu drive”_ (precisa apertar no “selecionar” quando já estiver no local da pasta).
-  ![Tabela PDI](../Assets/Pessoas/copiaTabelaPDI.png)
+  ![Tabela PDI](../assets/pessoas/copiaTabelaPDI.png)
 
 Na tabela existem várias divisões que auxiliarão no estabelecimento de objetivos e na identificação de pontos fracos e fortes. Sendo elas:
 

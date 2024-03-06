@@ -4,7 +4,7 @@ icon: rocket
 label: "O que é Git ?"
 author:
   name: Araújo
-  avatar: ../../Imagens DocStruct/Logos/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-09-24
 category: Explicação
 ---

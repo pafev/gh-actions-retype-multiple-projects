@@ -3,7 +3,7 @@ label: "Corrida de Foguetes"
 icon: trophy
 author:
   name: Jéssica
-  avatar: ../Assets/Pessoas/dino.png
+  avatar: ../assets/pessoas/dino.png
 date: 2023-11-04
 ---
 

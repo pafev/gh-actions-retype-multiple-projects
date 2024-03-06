@@ -4,7 +4,7 @@ icon: rocket
 order: 4
 author:
   name: Lucas
-  avatar: ../Assets/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-10-19
 ---
 
@@ -65,7 +65,7 @@ Todos os pagamentos feitos pela Struct devem ser aprovados pelo\(a\) presidente 
 
 Os balancetes são documentos mensais que consistem em uma planilha que contém toda e qualquer movimentação de dinheiro dentro da empresa. Como diretor\(a\) administrativo-financeiro, é sua obrigação fazer os balancetes referentes ao mês anterior no começo de cada mês \(quando os gastos mensais já estiverem fechados\).
 
-![Exemplo de balancete](../Assets/Administracao/Balancete.png)
+![Exemplo de balancete](../assets/administracao/Balancete.png)
 
 No começo do mês, o primeiro passo para a realização do balancete consiste no obtenção do extrato da conta bancária da Struct, o que é feito por meio do aplicativo ou do website do Banco do Brasil. Esse extrato é um arquivo _pdf_ que deve ser adicionado ao Google Drive na pasta "_Administração e Financeiro -> Balancetes -> [Ano da sua gestão] -> Extratos_" com o nome "_[Número do mês] - [Nome do mês]_". Após o extrato ter sido adicionado ao Google Drive, você deve criar \(por meio do próprio Drive\) um documento do tipo "_Planilhas Google_" com base no modelo "_balancete_x_" e preencher esse documento com os ativos \(dinheiro recebido\) e passivos \(gastos\) presentes no extrato bancário desse mês.
 
@@ -142,7 +142,7 @@ Legalmente falando, é possível para o cliente exigir a emissão da Nota Fiscal
 
 Para emitir uma nota fiscal eletrônica, utilize a conta da Struct para acessar a plataforma da [NFE+](https://www.nfemais.com.br/) \(caso você não saiba a conta da Struct para a plataforma NFE+, pergunte essa informação para o presidente atual da Struct ou para o último membro a ocupar a função de diretor administrativo-financeiro\).
 
-![Tela do site NFE+](../Assets/Administracao/Tela_NFE+.png)
+![Tela do site NFE+](../assets/administracao/Tela_NFE+.png)
 
 Ao clicar no nome de um destinatário, na segunda coluna, é possível ver as informações daquela nota fiscal, o que ajuda no preenchimento de novas notas fiscais em casos de dúvidas. Tome um momento para se familiarizar com as notas fiscais existentes porque isso ajudará a sanar quaisquer dúvidas relativas ao processo como um todo de forma muito mais rápida que fazer perguntas para os últimos diretores administrativo-financeiros da Struct \(eu falo por experiência própria\).
 
@@ -221,13 +221,13 @@ Para obter esse documento, basta acessar o [site da Secretaria de Estado de Faze
 
 A RAIS Negativa é um documento que pode ser emitido no [site da RAIS](https://goo.gl/eF3h23). Para o preenchimento dos campos de formulário, utilize as imagens abaixo como base.
 
-![Tela 1](../Assets/Administracao/Tela_RAIS_1.png)
+![Tela 1](../assets/administracao/Tela_RAIS_1.png)
 
-![Tela 2](../Assets/Administracao/Tela_RAIS_2.png)
+![Tela 2](../assets/administracao/Tela_RAIS_2.png)
 
-![Tela 3](../Assets/Administracao/Tela_RAIS_3.png)
+![Tela 3](../assets/administracao/Tela_RAIS_3.png)
 
-![Tela 4](../Assets/Administracao/Tela_RAIS_4.png)
+![Tela 4](../assets/administracao/Tela_RAIS_4.png)
 
 Observações:
 

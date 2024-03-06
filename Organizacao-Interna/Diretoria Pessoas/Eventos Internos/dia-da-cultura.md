@@ -3,7 +3,7 @@ label: "Dia da Cultura"
 icon: code-of-conduct
 author:
   name: Jéssica
-  avatar: ../../Assets/Pessoas/dino.png
+  avatar: ../../assets/pessoas/dino.png
 date: 2023-11-02
 ---
 
@@ -15,9 +15,9 @@ O Dia da Cultura é um evento organizado pela GP, cuja primeira ocorrência ocor
 
 O objetivo do evento é apresentar aos participantes de maneira bem informal, a cultura da Struct e de Empresa Júnior em geral, mantendo o foco principalmente na nossa empresa. A forma de apresentar esses assuntos pode ser feita de diversas formas, como por exemplo: histórias e acontecimentos da empresa, MVV, mini-palestras e dinâmicas. Além do momento cultural, é reservado também um período livre para descontrair, por meio de práticas esportivas, jogos de cartas ou até conversas (nessa parte, a regra é não ter regras).
 
-![Foto dos membros da Struct reunidos.](../../Assets/Pessoas/dia_da_cultura1.jpg)
+![Foto dos membros da Struct reunidos.](../../assets/pessoas/dia_da_cultura1.jpg)
 
-![Foto dos membros da Struct durante uma paletra do Cubo, um piloto aposentado.](../../Assets/Pessoas/dia_da_cultura2.jpg)
+![Foto dos membros da Struct durante uma paletra do Cubo, um piloto aposentado.](../../assets/pessoas/dia_da_cultura2.jpg)
 
 ## Aplicação
 

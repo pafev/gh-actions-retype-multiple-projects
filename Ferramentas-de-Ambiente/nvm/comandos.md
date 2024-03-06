@@ -4,7 +4,7 @@ icon: rocket
 label: "Quais comandos posso usar ?"
 author:
   name: Araújo
-  avatar: ../../Imagens DocStruct/Logos/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-09-24
 category: Comandos
 ---
@@ -48,4 +48,5 @@ nvm use vX.X.X
 ```
 
 ### Quer saber mais comandos do NVM ?
+
 ---------------------->[repositorio NVM](https://github.com/nvm-sh/nvm)<-----------------------

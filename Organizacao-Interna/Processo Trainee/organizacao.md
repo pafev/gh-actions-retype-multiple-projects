@@ -3,7 +3,7 @@ label: "Organização"
 icon: checklist
 author:
   name: Jéssica
-  avatar: ../Assets/Pessoas/dino.png
+  avatar: ../assets/pessoas/dino.png
 date: 2023-12-07
 ---
 

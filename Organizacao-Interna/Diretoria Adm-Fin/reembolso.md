@@ -4,7 +4,7 @@ icon: person-add
 order: 2
 author:
   name: Leonardo
-  avatar: ../Assets/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-10-18
 ---
 

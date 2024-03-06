@@ -4,7 +4,7 @@ icon: rocket
 label: "Quais comandos posso usar ?"
 author:
   name: Araújo
-  avatar: ../../Imagens DocStruct/Logos/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-09-24
 category: Comandos
 ---
@@ -47,11 +47,11 @@ Aqui está uma explicação passo a passo do acontece quando você executa o com
 
 3. Mudanças não rastreadas: Se houver arquivos no seu diretório de trabalho que ainda não foram adicionados ao controle de versão do Git, o `git status` os listará como "untracked" (não rastreados). Isso significa que o Git não está acompanhando esses arquivos.
 
-4. Mudanças a serem confirmadas: O `git status`  mostrará os arquivos modificados que já estão sob o controle do Git. Essas alterações estão prontas para serem adicionadas ao próximo commit.
+4. Mudanças a serem confirmadas: O `git status` mostrará os arquivos modificados que já estão sob o controle do Git. Essas alterações estão prontas para serem adicionadas ao próximo commit.
 
-5. Mudanças confirmadas: Se você já fez um commit, o `git status`  informará que o diretório de trabalho está limpo, ou seja, não há alterações pendentes.
+5. Mudanças confirmadas: Se você já fez um commit, o `git status` informará que o diretório de trabalho está limpo, ou seja, não há alterações pendentes.
 
-6. Sugestões de próximos passos: O `git status`  também pode fornecer sugestões sobre o que fazer em seguida, com base no estado atual do repositório. Por exemplo, pode sugerir comandos como `git add`  para adicionar arquivos ao commit ou `git branch`  para listar as ramificações disponíveis.
+6. Sugestões de próximos passos: O `git status` também pode fornecer sugestões sobre o que fazer em seguida, com base no estado atual do repositório. Por exemplo, pode sugerir comandos como `git add` para adicionar arquivos ao commit ou `git branch` para listar as ramificações disponíveis.
 
 ## Git Add
 

@@ -3,7 +3,7 @@ label: "Plano de Ensino"
 icon: log
 author:
   name: Jéssica
-  avatar: ../Assets/Pessoas/dino.png
+  avatar: ../assets/pessoas/dino.png
 date: 2023-12-08
 ---
 

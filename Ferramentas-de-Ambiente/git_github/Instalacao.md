@@ -4,7 +4,7 @@ icon: rocket
 label: "Como instalar o Git ?"
 author:
   name: Araújo
-  avatar: ../../Imagens DocStruct/Logos/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-09-24
 category: Instalação
 ---
@@ -24,10 +24,10 @@ category: Instalação
 
 ## MacOS
 
-Existem várias opções para instalar o Git no macOS, porém iremos utilizar como base a [domentação oficial](https://git-scm.com/download/mac) do git que utiliza o Homebrew, um gerenciador de pacotes, para instalar o Git. 
+Existem várias opções para instalar o Git no macOS, porém iremos utilizar como base a [domentação oficial](https://git-scm.com/download/mac) do git que utiliza o Homebrew, um gerenciador de pacotes, para instalar o Git.
 
 1. Abra o Terminal(Digite "Terminal" na barra de pesquisa e abre o aplicativo que aparecer)
-2. Se você ainda não possui o [Homebrew](https://brew.sh/) instalado, execute o seguinte comando no Terminal: 
+2. Se você ainda não possui o [Homebrew](https://brew.sh/) instalado, execute o seguinte comando no Terminal:
 
 ```bash Terminal
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
@@ -72,7 +72,7 @@ Após concluir a instalação do Git e verificar se ele esta instalado, siga os 
 
 ```bash Terminal
 git config --global user.name <seu_nome>
-git config --global user.email <email_utilizado_no_cadastro_github> 
+git config --global user.email <email_utilizado_no_cadastro_github>
 ```
 
 ## Quer saber mais sobre Git ?

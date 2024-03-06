@@ -4,7 +4,7 @@ icon: rocket
 label: "Quais comandos posso usar ?"
 author:
   name: Araújo
-  avatar: ../../Imagens DocStruct/Logos/logo_struct.png
+  avatar: ../assets/logo_struct.png
 date: 2023-09-24
 category: Comandos
 ---
@@ -14,8 +14,9 @@ category: Comandos
 ### Instalar um pacote
 
 ```bash
-npm install 
+npm install
 ```
+
 ### Remover um pacote
 
 ```bash
@@ -40,7 +41,7 @@ npm update
 npm list
 ```
 
-### Instalação limpa das dependências 
+### Instalação limpa das dependências
 
 ```bash
 npm ci

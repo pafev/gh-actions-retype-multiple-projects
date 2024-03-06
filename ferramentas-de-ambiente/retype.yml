@@ -1,5 +1,5 @@
 input: .
-output: ../public/ferramentas-de-ambiente/
+output: .retype
 # url: docs.structej.com/
 edit:
   repo: "https://github.com/StructCE/DocStruct"

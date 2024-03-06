@@ -37,13 +37,13 @@ jobs:
         run: dotnet tool install retypeapp --global
 
       - name: build organizacao interna
-        run: retype build ./organizacao-interna/retype.yml
+        run: retype build ./organizacao-interna/retype.yml --output ./public/organizacao-interna
 
       - name: build ferramentas de ambiente
-        run: retype build ./ferramentas-de-ambiente/retype.yml
+        run: retype build ./ferramentas-de-ambiente/retype.yml --output ./public/ferramentas-de-ambiente
 
       - name: build stack
-        run: retype build ./stack/retype.yml
+        run: retype build ./stack/retype.yml --output ./public/stack
 
       - name: setup pages
         uses: actions/configure-pages@v4

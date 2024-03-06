@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: ../public/ferramentas-de-ambiente/
 # url: docs.structej.com/
 edit:
   repo: "https://github.com/StructCE/DocStruct"
@@ -9,11 +9,10 @@ branding:
 links:
   - text: GitHub
     link: https://github.com/StructCE/DocStruct
-    icon: ./Imagens DocStruct/Logos/logo_github.png
-  - text: Componentes
-    link: https://structce.github.io/DocStruct/components/introducao/
   - text: Documentação antiga
     link: https://struct.gitbook.io/struct/
+  - text: Página Inicial
+    link: https://docs.structej.com/
 footer:
   copyright: "&copy; Copyright {{ year }}. [StructCE](https://www.struct.unb.br/) Todos os direitos reservados."
 locale: pt-BR

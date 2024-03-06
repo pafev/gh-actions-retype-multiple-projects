@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: ../public/organizacao-interna/
 # url: docs.structej.com/
 edit:
   repo: "https://github.com/StructCE/DocStruct"

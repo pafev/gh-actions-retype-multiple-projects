@@ -32,7 +32,7 @@ A ideia do Prisma é ser uma ORM. Ela pode ser utilizada no desenvolvimento de a
 O Prisma **esconde** a implementação em **SQL** das queries. Mostra pro usuário da **biblioteca** uma interface construída em TypeScript, o que significa que tem **autocomplete e segurança de tipos na** sua **utilização**. Também fornece funções de **filtragem** e **ordenação** de **fácil** utilização.
 
 É **nessa parte** que o Prisma **se destaca** em relação às alternativas.
-![](</Imagens DocStruct/Projetos/prisma_example.png>)
+![](../assets/exemplos/prisma_example.png)
 
 Essa abstração também fornece **segurança de tipos** pra sua **API** e **frontend** (caso use os tipos exportados pelo Prisma). Isso **significa** que, caso **altere** alguma **model**, os **tipos do Prisma** também **mudarão**, e o VSCode e ferramenta de verificação de código estático te **alertarão** caso esteja acessando algo que o banco de dados não retorna mais. Isso também fornece autocomplete na utilização das instâncias das models.
 
@@ -40,7 +40,7 @@ Essa abstração também fornece **segurança de tipos** pra sua **API** e **fro
 
 Considere a sintaxe do Kysely por exemplo:
 
-![](</Imagens DocStruct/Projetos/kysely_example.gif>)
+![](../assets/exemplos/kysely_example.gif)
 
 ===
 

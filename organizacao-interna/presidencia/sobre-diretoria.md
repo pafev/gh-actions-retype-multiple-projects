@@ -13,7 +13,7 @@ A cabeça da empresa, o líder. Ele é quem fará a empresa a mediação para di
 
 ## Troca de Gestão
 
-No momento da troca de gestão, muitas coisas devem ser feitas para a próxima gestão poder trabalhar normalmente. Aqui na presidência iremos falar principalmente de passar adiante contas eletrônicas. Para a questão de documentação procure na seção de [Administrativo-Financeiro](/diretorias/diretoria-adm-fin/sobre_diretoria/).
+No momento da troca de gestão, muitas coisas devem ser feitas para a próxima gestão poder trabalhar normalmente. Aqui na presidência iremos falar principalmente de passar adiante contas eletrônicas. Para a questão de documentação procure na seção de [Administrativo-Financeiro](../diretoria-adm-fin/sobre-diretoria.md).
 
 ### Lista de Contas
 

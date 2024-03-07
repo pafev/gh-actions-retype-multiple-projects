@@ -9,9 +9,9 @@ date: 2023-12-07
 
 ## Processo Trainee
 
-É o processo de capacitação das pessoas que foram aprovadas no [processo seletivo](../diretoria-pessoas/processo_seletivo), isto é, tem como objetivo mostrar as ferramentas utilizadas dentro da Struct para os(as) possíveis futuros(as) membros e ensiná-los(as) o que for necessário, de forma a preparar essas pessoas a inicarem seus trabalhos dentro da EJ.
+É o processo de capacitação das pessoas que foram aprovadas no [processo seletivo](../diretoria-pessoas/processo-seletivo), isto é, tem como objetivo mostrar as ferramentas utilizadas dentro da Struct para os(as) possíveis futuros(as) membros e ensiná-los(as) o que for necessário, de forma a preparar essas pessoas a inicarem seus trabalhos dentro da EJ.
 
-O processo trainee começa no dia da divulgação dos resultados do PS e vai até a data da apresentação do projeto final, dura cerca de um semestre letivo e, ao fim do processo, são efetivados(as) os(as) trainees que forem aprovados(as). O principal responsável pelo processo é o(a) **Gerente do trainee**, mas é importante estar sempre alinhado com os(as) diretores de [Gestão de Pessoas](../diretoria-pessoas/sobre_diretoria.md) e de [Projetos](../diretoria-projetos/sobre_diretoria.md) visto que eles(as) podem colaborar quando necessário.
+O processo trainee começa no dia da divulgação dos resultados do PS e vai até a data da apresentação do projeto final, dura cerca de um semestre letivo e, ao fim do processo, são efetivados(as) os(as) trainees que forem aprovados(as). O principal responsável pelo processo é o(a) **Gerente do trainee**, mas é importante estar sempre alinhado com os(as) diretores de [Gestão de Pessoas](../diretoria-pessoas/sobre-diretoria.md) e de [Projetos](../diretoria-projetos/sobre-diretoria.md) visto que eles(as) podem colaborar quando necessário.
 
 ## Preparação
 
@@ -45,7 +45,7 @@ Após os resultados de todos os formulários, é responsabilidade da Gerência p
 É interessante convidar para essa reunião gerentes e instrutores do processo trainee anterior para que possam relatar o que deu certo e o que deu errado no seu PT.
 {% endhint %}
 
-Ainda nessa reunião, é viável que seja feito um [plano de ensino](plano_de_ensino.md).
+Ainda nessa reunião, é viável que seja feito um [plano de ensino](plano-de-ensino.md).
 
 ## Aulas
 
@@ -112,7 +112,7 @@ Ao fim do período de desenvolvimento do projeto, é marcada uma apresentação 
 
 É de responsabilidade da _Gerência_, mas é realizado em conjuto com todos(as) os(as) diretores(as). O(A) diretor(a) da GP deve coletar com cada diretoria o número de vagas que elas irão ofertar. Em seguida, um formulário é criado e enviado aos(às) trainees, em que eles irão escolher a ordem de prioridade de ingresso nas diretorias que eles(as) têm mais interesse. Com essas informações coletadas, os(as) diretores(as) mais uma vez se reúnem e os(as) membros são distribuídos(as) oficialmente para cada diretoria, sendo interessante já adicioná-los(as) ao canal da diretoria assim que o resultado for divulgado.
 
-Após decididas as diretorias de cada trainee, a próxima etapa, realizada pelo _Presidente_, é a [adição dos novos membros nas nossas plataformas](../Presidencia/sobre_diretoria.md#adição-dos-novos-membros-nas-nossas-plataformas) que é essencial para a efetivação dos trainees.
+Após decididas as diretorias de cada trainee, a próxima etapa, realizada pelo _Presidente_, é a [adição dos novos membros nas nossas plataformas](../presidencia/sobre-diretoria.md#adição-dos-novos-membros-nas-nossas-plataformas) que é essencial para a efetivação dos trainees.
 
 ### Resultados
 

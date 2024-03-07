@@ -35,8 +35,8 @@ Faça uma enquete com os(as) aprovados(as) no processo seletivo para escolher os
 
 É interessante definir quais ferramentas serão utilizadas para as aulas, para a comunicação e para o envio dos exercícios.
 
-- Para as aulas, caso não possam ser realizadas presencialmente, é interessante utilizar o [Discord](ferramentas_comunicação.md#discord), visto que os membros já se familiarizam com o mesmo.
-- Para a comunicação, é imprescindível que utilizem o [Slack](ferramentas_comunicação.md#slack), assim, os(as) trainees já se acostumam a verificá-lo diariamente.
+- Para as aulas, caso não possam ser realizadas presencialmente, é interessante utilizar o [Discord](ferramentas-comunicação.md#discord), visto que os membros já se familiarizam com o mesmo.
+- Para a comunicação, é imprescindível que utilizem o [Slack](ferramentas-comunicação.md#slack), assim, os(as) trainees já se acostumam a verificá-lo diariamente.
 - Por fim, para o envio de exercícios e divulgação dos materiais, é recomendado o uso do **Google Classroom**.
 
 ## 6. Extras

@@ -9,9 +9,9 @@ date: 2023-12-07
 
 ## Processo Trainee
 
-É o processo de capacitação das pessoas que foram aprovadas no [processo seletivo](<../Diretoria Pessoas/processo_seletivo>), isto é, tem como objetivo mostrar as ferramentas utilizadas dentro da Struct para os(as) possíveis futuros(as) membros e ensiná-los(as) o que for necessário, de forma a preparar essas pessoas a inicarem seus trabalhos dentro da EJ.
+É o processo de capacitação das pessoas que foram aprovadas no [processo seletivo](../diretoria-pessoas/processo_seletivo), isto é, tem como objetivo mostrar as ferramentas utilizadas dentro da Struct para os(as) possíveis futuros(as) membros e ensiná-los(as) o que for necessário, de forma a preparar essas pessoas a inicarem seus trabalhos dentro da EJ.
 
-O processo trainee começa no dia da divulgação dos resultados do PS e vai até a data da apresentação do projeto final, dura cerca de um semestre letivo e, ao fim do processo, são efetivados(as) os(as) trainees que forem aprovados(as). O principal responsável pelo processo é o(a) **Gerente do trainee**, mas é importante estar sempre alinhado com os(as) diretores de [Gestão de Pessoas](<../Diretoria Pessoas/sobre_diretoria.md>) e de [Projetos](<../Diretoria Projetos/sobre_diretoria.md>) visto que eles(as) podem colaborar quando necessário.
+O processo trainee começa no dia da divulgação dos resultados do PS e vai até a data da apresentação do projeto final, dura cerca de um semestre letivo e, ao fim do processo, são efetivados(as) os(as) trainees que forem aprovados(as). O principal responsável pelo processo é o(a) **Gerente do trainee**, mas é importante estar sempre alinhado com os(as) diretores de [Gestão de Pessoas](../diretoria-pessoas/sobre_diretoria.md) e de [Projetos](../diretoria-projetos/sobre_diretoria.md) visto que eles(as) podem colaborar quando necessário.
 
 ## Preparação
 
@@ -116,7 +116,7 @@ Após decididas as diretorias de cada trainee, a próxima etapa, realizada pelo 
 
 ### Resultados
 
-Historicamente, o resultado das aprovações do trainee saem na [Cerimônia de Premiação de Foguetes](<../Diretoria Pessoas/corrida-de-foguetes.md#cerimônia-de-premiação>) juntamente com as atualizações de membros em cada diretoria.
+Historicamente, o resultado das aprovações do trainee saem na [Cerimônia de Premiação de Foguetes](../diretoria-pessoas/corrida-de-foguetes.md#cerimônia-de-premiação) juntamente com as atualizações de membros em cada diretoria.
 
 ## Mais informações
 

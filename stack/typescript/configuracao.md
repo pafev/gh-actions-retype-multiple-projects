@@ -4,7 +4,7 @@ icon: gear
 label: "Configurando o Ambiente"
 author:
   name: Paulo Fernando
-  avatar: ../../Imagens DocStruct/Logos/logo_struct.png
+  avatar: ../assets/logo_struct.png
 category: Instalação
 tags:
   - typescript

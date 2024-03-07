@@ -13,7 +13,7 @@ tags:
 
 ## Next Auth
 
-Essa documentação foi desenvolvida assumindo que o leitor tem familiaridade com os conceitos básicos de Next, se não for o caso consulte o DocStruct de [Next.js](../next.js/explicacao.md) para qualquer dúvida.
+Essa documentação foi desenvolvida assumindo que o leitor tem familiaridade com os conceitos básicos de Next, se não for o caso consulte o DocStruct de [Next.js](TODO) para qualquer dúvida.
 
 O [Next Auth](https://next-auth.js.org/) é uma biblioteca de autenticação para projetos desenvolvidos com o framework Next.js.
 Essa biblioteca facilita a implementação de autenticação de usuário vindos de um back-end já existente (autenticação por terceiros, por exemplo). É possível utilizar credenciais, como e-mail e senha, mas a biblioteca dá maior foco ao OAuth, fornecida pelo Google, GitHUb, etc. garantindo a segurança e facilitando a implementação.

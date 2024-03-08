@@ -16,7 +16,7 @@ body.light {
   --border: rgb(229 231 235);
   --icon-focus: rgb(209 213 219);
   --icon-hover: rgb(229 231 235);
-  --text: rgb(55 65 81);
+  --text: #2f3348;
   --text-a: rgb(59 130 246);
   --text-a-hover: rgb(30 64 175);
 }
@@ -186,6 +186,10 @@ nav {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+}
+
+.mobile-sidebar ul a {
+  color: var(--text);
 }
 
 .mobile-sidebar div {

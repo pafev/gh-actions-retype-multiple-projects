@@ -1,6 +1,6 @@
 (function () {
   var body = document.querySelector("body"),
-    m = localStorage.getItem("doc_theme"),
+    m = localStorage.getItem("home_theme"),
     wm = window.matchMedia;
   if (
     m === "isLight" ||
@@ -25,9 +25,9 @@ toggleSideBarElements.forEach((element) => {
 
 toggleTheme.addEventListener("click", () => {
   if (body.classList.contains("light")) {
-    localStorage.removeItem("doc_theme");
+    localStorage.removeItem("home_theme");
   } else {
-    localStorage.setItem("doc_theme", "isLight");
+    localStorage.setItem("home_theme", "isLight");
   }
   body.classList.toggle("light");
   toggleTheme.classList.toggle("light");

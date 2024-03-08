@@ -1,19 +1,21 @@
-(function () {
-  var body = document.querySelector("body"),
-    m = localStorage.getItem("home_theme"),
-    wm = window.matchMedia;
-  if (
-    m === "isLight" ||
-    (!m && wm && !wm("(prefers-color-scheme: dark)").matches)
-  ) {
-    body.classList.toggle("light");
-  }
-})();
-
 const toggleSideBarElements = document.querySelectorAll(".__toggle-sidebar"),
   containerSideBar = document.querySelector(".container-sidebar"),
   toggleTheme = document.querySelector(".__toggle-theme"),
   body = document.querySelector("body");
+
+(function () {
+  (m = localStorage.getItem("home_theme")), (wm = window.matchMedia);
+  if (
+    m === "isLight" ||
+    (!m && wm && !wm("(prefers-color-scheme: dark)").matches)
+  ) {
+    body.classList.add("light");
+    toggleTheme.classList.add("light");
+  } else {
+    body.classList.remove("light");
+    toggleTheme.classList.remove("light");
+  }
+})();
 
 function toggleContainerSideBar() {
   containerSideBar.classList.toggle("show-container-sidebar");
@@ -26,9 +28,11 @@ toggleSideBarElements.forEach((element) => {
 toggleTheme.addEventListener("click", () => {
   if (body.classList.contains("light")) {
     localStorage.removeItem("home_theme");
+    toggleTheme.classList.remove("light");
+    body.classList.remove("light");
   } else {
     localStorage.setItem("home_theme", "isLight");
+    toggleTheme.classList.add("light");
+    body.classList.add("light");
   }
-  body.classList.toggle("light");
-  toggleTheme.classList.toggle("light");
 });

@@ -5,7 +5,7 @@ edit:
   repo: "https://github.com/StructCE/DocStruct"
   label: Altere essa página no GitHub.
 branding:
-  title: Stack de Desenvolvimento | DocStruct
+  title: Stack Principal | DocStruct
 links:
   - text: Página Inicial
     link: https://docs.structej.com/

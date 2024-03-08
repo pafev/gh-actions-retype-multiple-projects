@@ -4,9 +4,9 @@ const toggleSideBarElements = document.querySelectorAll(".__toggle-sidebar"),
   body = document.querySelector("body");
 
 (function () {
-  (m = localStorage.getItem("home_theme")), (wm = window.matchMedia);
+  (m = localStorage.getItem("doc_theme")), (wm = window.matchMedia);
   if (
-    m === "isLight" ||
+    m === "light" ||
     (!m && wm && !wm("(prefers-color-scheme: dark)").matches)
   ) {
     body.classList.add("light");
@@ -27,11 +27,11 @@ toggleSideBarElements.forEach((element) => {
 
 toggleTheme.addEventListener("click", () => {
   if (body.classList.contains("light")) {
-    localStorage.removeItem("home_theme");
+    localStorage.setItem("doc_theme", "dark");
     toggleTheme.classList.remove("light");
     body.classList.remove("light");
   } else {
-    localStorage.setItem("home_theme", "isLight");
+    localStorage.setItem("doc_theme", "light");
     toggleTheme.classList.add("light");
     body.classList.add("light");
   }
